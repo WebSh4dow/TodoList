@@ -16,8 +16,14 @@
 
 
 ![alt text](https://github.com/FireXtz/img-icons/blob/main/Captura%20de%20tela%20de%202022-06-18%2010-00-39.png)
+
 ![alt text](https://github.com/FireXtz/img-icons/blob/main/Captura%20de%20tela%20de%202022-06-18%2010-00-46.png)
+
 ![alt text](https://github.com/FireXtz/img-icons/blob/main/Captura%20de%20tela%20de%202022-06-18%2010-00-53.png)
+
+![alt text](https://github.com/FireXtz/img-icons/blob/main/Captura%20de%20tela%20de%202022-06-18%2010-07-59.png)
+
+![alt text](https://github.com/FireXtz/img-icons/blob/main/Captura%20de%20tela%20de%202022-06-18%2010-09-36.png)
 
 
 
