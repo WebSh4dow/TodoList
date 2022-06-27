@@ -1,6 +1,6 @@
 #API REST (TODO-LIST JAVA BACKEND)
 
-##Tecnólogias usadas
+#Tecnólogias usadas
 
 #-Spring-boot
 #Hibernate
@@ -12,6 +12,6 @@
 
 # O Todo-List tem como função cadastrar uma tarefa com descrição e data de realização da tarefa bem como a atualização e remoção de tarefas antigas
 
-![alt text](https://github.com/FireXtz/img-icons)
+![alt text](https://github.com/FireXtz/img-icons/blob/main/Captura%20de%20tela%20de%202022-06-18%2010-00-39.png)
 
 
